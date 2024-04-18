@@ -14,7 +14,7 @@ Bienvenidos al repositorio de **Tareas Educantel**, un espacio dedicado a las ta
 
 - `main`: Alojada en [**Hostinger**](https://app.alexcuadro.tech/educantel), contiene la versión de producción.
 - `desarrollo`: Rama para el desarrollo y pruebas de nuevas funcionalidades.
-- `minificado`: Versión optimizada del proyecto, alojada en [**Hostinger**](https://educantel.vercel.app/).
+- `minificado`: Versión optimizada del proyecto, alojada en [**Vercel**](https://educantel.vercel.app/).
 
 ## Acerca del Creador
 
