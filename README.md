@@ -7,7 +7,7 @@ Bienvenidos al repositorio de **Tareas Educantel**, un espacio dedicado a las ta
 | Tarea | Descripción | Estado |
 |-------|-------------|--------|
 | Tarea 1 | Poema con imagen | ✅ Completada |
-| Tarea 2 | Títulos, textos alineados, etiqueta pre | ✅ Completada|
+| Tarea 2 | Títulos, textos alineados, estilos en línea, etiqueta pre | ✅ Completada|
 | Tarea 3 | Listas anidadas, body, div | ✅ Completada |
 
 ## Ramas
@@ -18,6 +18,6 @@ Bienvenidos al repositorio de **Tareas Educantel**, un espacio dedicado a las ta
 
 ## Acerca del Creador
 
-Este proyecto fue creado con ❤️ por **Alex Cuadro**. Para más información o contacto, puedes visitar mi perfil.
+Este proyecto fue creado con ❤️ por **Alex Cuadro**. Para más información o contacto, puedes visitar mi perfil en [GitHub](https://github.com/alexcuadroo).
 
 ---
