@@ -9,6 +9,7 @@ Bienvenidos al repositorio de **Tareas Educantel**, un espacio dedicado a las ta
 | Tarea 1 | Poema con imagen | ✅ Completada |
 | Tarea 2 | Títulos, textos alineados, estilos en línea, etiqueta pre | ✅ Completada|
 | Tarea 3 | Listas anidadas, body, div | ✅ Completada |
+| Tarea 4 | Tablas | ✅ Completada |
 
 ## Ramas
 
